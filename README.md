@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Frontend development role (Angular and Ionic)
 - 🌱 I’m currently learning ... Advanced coding techniques and git itself
 - 💞️ I’m looking to collaborate on ... open source development 
-- 📫 How to reach me ... y'll can reach me on my email ID i.e. bhushanjambhulkar13@gmail.com
+- 📫 How to reach me ... y'll can reach me on my email ID i.e. bhushanjambhulkar13@gmail.com, my linkedin ID is https://www.linkedin.com/in/bhushan-jambhulkar-a4a9a5145/
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... Developer/Gamer/ContentCreator
 
